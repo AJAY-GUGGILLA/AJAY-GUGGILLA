@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Ajay 👋
 
-<!--
-**AJAY-GUGGILLA/AJAY-GUGGILLA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year B.Tech AIML Student  
+💻 Passionate about Machine Learning & Data Science  
+📈 Actively building projects to solve real-world problems  
+🎯 Seeking high-paying ML opportunities
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- 📊 Customer Churn Prediction – [Repo Link]
+- 🤖 Loan Approval Classifier – [Repo Link]
+- 🧠 Stroke Prediction using ML – [Repo Link]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- LinkedIn: [Your LinkedIn]
+- GitHub: [Your GitHub]
+- Email: guggillaajay12345@gmail.com
+
